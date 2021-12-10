@@ -1,5 +1,5 @@
 # Rodger
-This is a Banking Chatbot mobile application that works on both IOS and Android. The bot understands user queries and creates an appropriate response. You tell the bot "I want to open a checking account" and it will give you an appropriate responce.
+This is a Banking Chatbot mobile application that works on both IOS and Android. The bot understands user queries and creates an appropriate response. You tell the bot "I want to open a checking account" and it will give you an appropriate response.
 ## Technology Used
 * React Native
 * DialogFlow
